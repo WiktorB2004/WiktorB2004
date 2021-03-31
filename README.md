@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WiktorB2004, My name is Wiktor Byrka
+- 👋 Hi, My name is Wiktor Byrka, @WiktorB2004
 - 👀 I’m interested in Web Development and Ethical Hacking
 - 🌱 I’m currently learning Node.js/React.js etc.
 - 💞️ I’m looking to collaborate on every interesting project
