@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Wiktor Byrka, @WiktorB2004
-- 👀 I’m interested in Web Development and Ethical Hacking
-- 🌱 I’m currently learning Node.js/React.js etc.
+- 👀 I’m interested in Web Development, Ethical Hacking and Software Development
+- 🌱 I’m currently learning Javascript, Python and their Frameworks
 - 💞️ I’m looking to collaborate on every interesting project
 - 📫 How to reach me: byrka.w@gmail.com 
 
