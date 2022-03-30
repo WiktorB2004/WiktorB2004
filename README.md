@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Wiktor Byrka, @WiktorB2004
 - 👀 I’m interested in Coding and Sport 
-- 🌱 I’m currently learning - Python, Machine Learning and Data Science, Discrete Maths, Algorithms, Data Structures and discovering a lot of other IT branches.
+- 🌱 I’m currently learning - Python, Machine Learning and Data Science, Discrete Maths, Algorithms, Data Structures and discovering other IT branches.
 - 💞️ I’m looking to collaborate on every interesting project
 - 📫 How to reach me: byrka.w@gmail.com 
 
