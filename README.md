@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on every interesting project
 - 📫 How to reach me: byrka.w@gmail.com
 - LeetCode profile: [LeetCode](https://leetcode.com/WiktorB2004/)
-- LinkedIn: [LinkedIn](https://leetcode.com/WiktorB2004/](https://www.linkedin.com/in/wiktor-byrka-b30576204/))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/wiktor-byrka-b30576204/)
 
 <!---
 WiktorB2004/WiktorB2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
