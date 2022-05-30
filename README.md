@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning - Python, Machine Learning and Data Science, Discrete Maths, Algorithms, Data Structures and discovering more and more about IT.
 - 💞️ I’m looking to collaborate on every interesting project
 - 📫 How to reach me: byrka.w@gmail.com
-- Links:
+- Profiles:
   - [LeetCode](https://leetcode.com/WiktorB2004/)
   -  [LinkedIn](https://www.linkedin.com/in/wiktor-byrka-b30576204/)
 
