@@ -7,6 +7,7 @@
 - Profiles:
   - [LeetCode](https://leetcode.com/WiktorB2004/)
   - [LinkedIn](https://www.linkedin.com/in/wiktor-byrka-b30576204/)
+  - [Code](https://www.codewars.com/users/WiktorB2004)
 
 <!---
 WiktorB2004/WiktorB2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
