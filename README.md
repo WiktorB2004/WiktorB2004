@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Sport 
 - 🌱 I’m currently learning - Python, Machine Learning and Data Science, Discrete Maths, Algorithms, Data Structures and discovering more and more about IT.
 - 💞️ I’m looking to collaborate on every interesting project
-- 📫 How to reach me: byrka.w@gmail.com / [PL] +48695436427 -> text me if I won't answer
+- 📫 How to reach me: contact@wiktority.pl / [PL] +48695436427 -> text me if I won't answer
 - 📁 In my repositories you can see all my projects that I want to share with you.
 - Profiles:
   - [LeetCode](https://leetcode.com/WiktorB2004/)
