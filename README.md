@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Wiktor Byrka, @WiktorB2004
-- 👀 I’m interested in Tech and Sport (
+- 👀 I’m interested in Tech and Sport
 - 🌱 I’m currently learning - Programming in different languages, training DSA and learning advanced mathemathics
 - 💞️ I’m looking to collaborate on every interesting project
 - 📫 How to reach me: byrka.w@gmail.com / [PL] +48 695-436-427
