@@ -8,4 +8,3 @@
   - [Website](https://wiktority.pl)
   - [LinkedIn](https://www.linkedin.com/in/wiktor-byrka-b30576204/)
   - [LeetCode](https://leetcode.com/WiktorB2004/)
-  - [Codewars](https://www.codewars.com/users/WiktorB2004)
