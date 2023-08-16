@@ -1,5 +1,11 @@
 
 ![background image](https://github.com/WiktorB2004/WiktorB2004/blob/6084376ba4e6846186523cda8c62415e1899c62b/background.png)
+![background image](https://github.com/WiktorB2004/WiktorB2004/blob/c1293d95aec9e56d3db20dd2872295b17fb9284d/gitAbout.png)
+
+
+
+
+TO FUTURE EDIT:
 - 👋 Hi, My name is Wiktor Byrka, @WiktorB2004
 - 👀 I’m interested in Technology and Sport
 - 🌱 I’m currently learning - Programming in different languages, training DSA and learning advanced mathemathics
