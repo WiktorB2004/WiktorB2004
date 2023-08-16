@@ -1,3 +1,5 @@
+
+![background image](https://github.com/WiktorB2004/WiktorB2004/blob/6084376ba4e6846186523cda8c62415e1899c62b/background.png)
 - 👋 Hi, My name is Wiktor Byrka, @WiktorB2004
 - 👀 I’m interested in Technology and Sport
 - 🌱 I’m currently learning - Programming in different languages, training DSA and learning advanced mathemathics
