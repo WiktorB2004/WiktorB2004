@@ -1,5 +1,3 @@
-
-![background image](https://github.com/WiktorB2004/WiktorB2004/blob/fa9f6f4bb45ea5d7890bf452040b048c6b85bfb2/gitBackground.png)
 ![background image](https://github.com/WiktorB2004/WiktorB2004/blob/c1293d95aec9e56d3db20dd2872295b17fb9284d/gitAbout.png)
 
 
