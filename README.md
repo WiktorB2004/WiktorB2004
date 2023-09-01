@@ -3,7 +3,7 @@
 
 
 
-TO FUTURE EDIT:
+About me:
 - 👋 Hi, My name is Wiktor Byrka, @WiktorB2004
 - 👀 I’m interested in Technology and Sport
 - 🌱 I’m currently learning - Programming in different languages, training DSA and learning advanced mathemathics
