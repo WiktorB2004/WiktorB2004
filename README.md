@@ -1,4 +1,4 @@
-![background image](https://github.com/WiktorB2004/WiktorB2004/blob/c1293d95aec9e56d3db20dd2872295b17fb9284d/gitAbout.png)
+![background image](gitAbout.jpg)
 
 
 
