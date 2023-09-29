@@ -1,4 +1,4 @@
-![background image](gitAbout.jpg)
+![background image](GitHub.jpg)
 
 
 
