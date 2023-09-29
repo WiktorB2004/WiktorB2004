@@ -3,7 +3,7 @@
 
 
 
-About me:
+<h2 align="center">About Me</h2>
 - 👋 Hi, My name is Wiktor Byrka, @WiktorB2004
 - 👀 I’m interested in Technology and Sport
 - 🌱 I’m currently learning - Programming, DSA, higher mathemathics
