@@ -16,3 +16,6 @@
   - [Website](https://wiktority.pl)
   - [LinkedIn](https://www.linkedin.com/in/wiktor-byrka-b30576204/)
   - [LeetCode](https://leetcode.com/WiktorB2004/)
+
+
+NEW README UNDER DEVELOPMENT
