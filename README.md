@@ -1,19 +1,16 @@
 ![background image](GitHub.jpg)
 
 
-
-
 <h2 align="center">About Me</h2>
-
-- 👋 Hi, My name is Wiktor Byrka, @WiktorB2004
-- 💞️ I’m looking to collaborate on every interesting project
-- 📫 How to reach me: byrka.w@gmail.com / [PL] +48 695 436 427
-- 📁 My repositories contain my personal projects.
-- Links:
-  - [Website](https://wiktority.pl)
-  - [LinkedIn](https://www.linkedin.com/in/wiktor-byrka-b30576204/)
-  - [LeetCode](https://leetcode.com/WiktorB2004/)
-
+ 
+| Label | Info |
+| ------------- | ------------- |
+| Name | Wiktor Byrka @WiktorB2004|
+| Languages | Polish - native, English - B2 |
+| Programming languages | Python, C, C++, JavaScript, TypeScript, Rust, Haskell |
+| Skills | Linux, Microsoft VBA, Scrum,  |
+| Contact | <ul><li> byrka.w@gmail.com </li><li> [PL] +48 695 436 427</li></ul> |
+| Links | <ul><li>[Website](https://wiktority.pl)</li><li>[LinkedIn](https://www.linkedin.com/in/wiktor-byrka-b30576204/)</li><li>[LeetCode](https://leetcode.com/WiktorB2004/)</li></ul> |
 
 <h2 align="center">Portfolio</h2>
 
