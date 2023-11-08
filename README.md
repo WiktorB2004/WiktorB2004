@@ -21,5 +21,5 @@
 | C | <ul><li>UNDER DEVELOPMENT</li></ul> |
 | JavaScript / TS | <ul><li>UNDER DEVELOPMENT</li></ul> |
 | Haskell | <ul><li>[Calculator](https://github.com/WiktorB2004/Calculator-Haskell) - conversion to RPN and solving + linear/quadratic equations</li><li>[Truth table generator](https://github.com/WiktorB2004/Truth_table_generator-Haskell) - truth table generator for any logic formula (using another repo code)</li><li>[TicTacToe](https://github.com/WiktorB2004/TicTacToe-Haskell) - TicTacToe game using tutorial</li></ul> |
-| Rust | <ul><li>[File Encryption/Decryption](https://github.com/WiktorB2004/File_Protection-Rust) - file explorer + encryption/decryption </li><li>[Todo](https://github.com/WiktorB2004/Terminal-Todo-Rust) - Ternminal TODO using tutorial </li></ul> |
+| Rust | <ul><li>[File Encryption/Decryption](https://github.com/WiktorB2004/File_Protection-Rust) - file explorer + encryption/decryption </li><li>[Todo](https://github.com/WiktorB2004/Terminal-Todo-Rust) - Terminal TODO, using tutorial </li></ul> |
 | Arduino | <ul><li>[Arduino](https://github.com/WiktorB2004/Arduino) - All the arduino projects</li></ul> |
