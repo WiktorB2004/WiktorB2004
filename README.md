@@ -1,5 +1,10 @@
 ![background image](GitHub.jpg)
 
+<p align="center">
+  <a href="https://example.com">
+    Check out my CV
+  </a>
+</p>
 
 <h2 align="center">About Me</h2>
  
