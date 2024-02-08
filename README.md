@@ -1,7 +1,7 @@
 ![background image](GitHub.jpg)
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1KWYLDcGN8YeiRWWG4k6UuGUTdUtJn774/view">
+  <a href="https://wiktority.pl/cv/">
     Check out my CV
   </a>
 </p>
