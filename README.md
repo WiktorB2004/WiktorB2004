@@ -1,4 +1,4 @@
-![background image](GitHub.jpg)
+![about-GH](https://github.com/WiktorB2004/WiktorB2004/assets/62223421/e564319c-98df-4a96-9563-fce5b59c33d3)
 
 <p align="center">
   <a href="https://wiktority.pl/cv/">
