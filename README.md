@@ -12,7 +12,7 @@
 | ------------- | ------------- |
 | Name | Wiktor Byrka @WiktorB2004|
 | Languages | Polish - native, English - B2 |
-| Programming languages | Python, C, C++, JavaScript, TypeScript, Rust, Haskell |
+| Programming languages | Python, C, C++, Go, JavaScript, TypeScript, Rust, Haskell |
 | Skills | Linux, Microsoft VBA, Scrum, Math, OOP, TDD, DS & Algorithms |
 | Contact | <ul><li> byrka.w@gmail.com </li><li> [PL] +48 695 436 427</li></ul> |
 | Links | <ul><li>[Website](https://wiktority.pl)</li><li>[LinkedIn](https://www.linkedin.com/in/wiktor-byrka-b30576204/)</li><li>[LeetCode](https://leetcode.com/WiktorB2004/)</li></ul> |
