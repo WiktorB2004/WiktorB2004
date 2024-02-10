@@ -1,4 +1,4 @@
-![GitHub](https://github.com/WiktorB2004/WiktorB2004/assets/62223421/c647116c-3e48-4f88-bbd4-5c0a6691b046)
+![GitHub (1)](https://github.com/WiktorB2004/WiktorB2004/assets/62223421/3f1a56f3-933c-416e-a0d8-9a7ad0e4650a)
 
 <p align="center">
   <a href="https://wiktority.pl/cv/">
