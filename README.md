@@ -1,7 +1,7 @@
 ![GitHub (1)](https://github.com/WiktorB2004/WiktorB2004/assets/62223421/3f1a56f3-933c-416e-a0d8-9a7ad0e4650a)
 
 <p align="center">
-  <a href="https://wiktority.pl/cv/">
+  <a href="https://wiktoriity.pl/cv/">
     Check out my CV
   </a>
 </p>
